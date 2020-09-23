@@ -2,6 +2,8 @@
 //
 
 #include <iostream>
+#include "ClassB.h"
+#include "ClassC.h"
 
 int main()
 {
