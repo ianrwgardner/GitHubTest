@@ -141,6 +141,10 @@
   <ItemGroup>
     <ClCompile Include="GithubTest.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ClassB.h" />
+    <ClInclude Include="ClassC.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
