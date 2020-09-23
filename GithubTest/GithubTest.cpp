@@ -2,6 +2,7 @@
 //
 
 #include <iostream>
+#include "ClassA.h"
 
 int main()
 {
