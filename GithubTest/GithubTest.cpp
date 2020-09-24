@@ -11,6 +11,8 @@ int main()
     std::cout << "Hello World!\n";
 
     std::cout << "Commit 2.\n";
+
+    std::cout << "Commit 3.\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
