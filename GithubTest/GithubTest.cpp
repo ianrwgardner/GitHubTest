@@ -3,6 +3,8 @@
 
 #include <iostream>
 #include "ClassA.h"
+#include "ClassB.h"
+#include "ClassC.h"
 
 int main()
 {
